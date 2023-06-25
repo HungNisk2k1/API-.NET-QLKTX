@@ -1,0 +1,24 @@
+F:\Web\C#\QuanLyKTX\KTX.ULT\bin\Debug\net6.0\KTX.ULT.deps.json
+F:\Web\C#\QuanLyKTX\KTX.ULT\bin\Debug\net6.0\KTX.ULT.dll
+F:\Web\C#\QuanLyKTX\KTX.ULT\bin\Debug\net6.0\KTX.ULT.pdb
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.csproj.AssemblyReference.cache
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.AssemblyInfoInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.AssemblyInfo.cs
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.csproj.CoreCompileInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.dll
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\refint\KTX.ULT.dll
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.pdb
+F:\Web\C#\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\ref\KTX.ULT.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\bin\Debug\net6.0\KTX.ULT.deps.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\bin\Debug\net6.0\KTX.ULT.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\bin\Debug\net6.0\KTX.ULT.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.csproj.AssemblyReference.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.AssemblyInfoInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.AssemblyInfo.cs
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.csproj.CoreCompileInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\refint\KTX.ULT.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\KTX.ULT.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.ULT\obj\Debug\net6.0\ref\KTX.ULT.dll

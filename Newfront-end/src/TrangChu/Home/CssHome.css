@@ -1,0 +1,25 @@
+.ant-layout-sider-children {
+    /* background-color: #6777EF; */
+    background: #ffffff;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-menu-dark {
+    color: #778189;
+    /* background: #6777EF; */
+    background: #ffffff;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-menu-dark.ant-menu-inline .ant-menu-sub.ant-menu-inline {
+    background: #ffffff;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-menu-dark .ant-menu-item-selected {
+    background-color: #F8FAFB;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-menu-dark .ant-menu-item-selected {
+    color: #6777EF;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-menu-dark .ant-menu-submenu-selected >.ant-menu-submenu-title {
+    color: #6777EF;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-layout .ant-layout-sider-trigger {
+    color: #fff;
+    background: #6777EF;
+}

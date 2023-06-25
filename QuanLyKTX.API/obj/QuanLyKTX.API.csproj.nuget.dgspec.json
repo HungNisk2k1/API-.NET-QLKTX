@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\QuanLyKTX.API\\QuanLyKTX.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.BUS\\KTX.BUS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.BUS\\KTX.BUS.csproj",
+        "projectName": "KTX.BUS",
+        "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.BUS\\KTX.BUS.csproj",
+        "packagesPath": "C:\\Users\\Hung0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.BUS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hung0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.DAL\\KTX.DAL.csproj": {
+                "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.DAL\\KTX.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.DAL\\KTX.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.DAL\\KTX.DAL.csproj",
+        "projectName": "KTX.DAL",
+        "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.DAL\\KTX.DAL.csproj",
+        "packagesPath": "C:\\Users\\Hung0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hung0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.MOD\\KTX.MOD.csproj": {
+                "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.MOD\\KTX.MOD.csproj"
+              },
+              "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.ULT\\KTX.ULT.csproj": {
+                "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.ULT\\KTX.ULT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.MOD\\KTX.MOD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.MOD\\KTX.MOD.csproj",
+        "projectName": "KTX.MOD",
+        "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.MOD\\KTX.MOD.csproj",
+        "packagesPath": "C:\\Users\\Hung0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.MOD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hung0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.ULT\\KTX.ULT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.ULT\\KTX.ULT.csproj",
+        "projectName": "KTX.ULT",
+        "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.ULT\\KTX.ULT.csproj",
+        "packagesPath": "C:\\Users\\Hung0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.ULT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hung0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\QuanLyKTX.API\\QuanLyKTX.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\QuanLyKTX.API\\QuanLyKTX.API.csproj",
+        "projectName": "QuanLyKTX.API",
+        "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\QuanLyKTX.API\\QuanLyKTX.API.csproj",
+        "packagesPath": "C:\\Users\\Hung0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\QuanLyKTX.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hung0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.BUS\\KTX.BUS.csproj": {
+                "projectPath": "C:\\Users\\Hung0\\Downloads\\New folder\\QuanLyKTX\\KTX.BUS\\KTX.BUS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

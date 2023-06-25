@@ -1,0 +1,38 @@
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.csproj.AssemblyReference.cache
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.AssemblyInfoInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.AssemblyInfo.cs
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.csproj.CoreCompileInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.BUS.deps.json
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.BUS.dll
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.BUS.pdb
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.DAL.dll
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.MOD.dll
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.ULT.dll
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.DAL.pdb
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.MOD.pdb
+F:\Web\C#\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.ULT.pdb
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.csproj.CopyComplete
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.dll
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\refint\KTX.BUS.dll
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.pdb
+F:\Web\C#\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\ref\KTX.BUS.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.BUS.deps.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.BUS.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.BUS.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.DAL.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.MOD.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.ULT.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.DAL.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.MOD.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\bin\Debug\net6.0\KTX.ULT.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.csproj.AssemblyReference.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.AssemblyInfoInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.AssemblyInfo.cs
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.csproj.CopyComplete
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\refint\KTX.BUS.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\KTX.BUS.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.BUS\obj\Debug\net6.0\ref\KTX.BUS.dll

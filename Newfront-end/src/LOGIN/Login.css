@@ -1,0 +1,68 @@
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+
+.LoginMainContent {
+  min-width: 300px;
+  width: 100%;
+  min-height: 660px;
+  height: 100vh;
+  display: flex;
+  position: relative;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background: gainsboro;
+}
+.LoginContentWrapper {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 10;
+  display: flex;
+  position: relative;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.LoginContent {
+  background: rgb(255, 255, 255, 0.92);
+  width: 600px;
+  height: 500px;
+  border: 2px solid rgb(22 119 255);
+  border-radius: 18px;
+  padding: 25px;
+}
+.TopTextWrapper {
+  width: 100%;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  color: rgb(22 119 255);
+}
+.InputLogin {
+  margin-top: 25px;
+  padding: 0px 30px;
+}
+.InputLoginStyle {
+  height: 50px;
+  font-size: 20px;
+}
+.InputLoginButtonStyle {
+  width: 100%;
+  height: 55px;
+  background: rgb(22 119 255);
+  color: rgb(255, 255, 255);
+  border-radius: 16px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.labelRow {
+  font-size: 22px;
+  margin-bottom: 15px;
+}

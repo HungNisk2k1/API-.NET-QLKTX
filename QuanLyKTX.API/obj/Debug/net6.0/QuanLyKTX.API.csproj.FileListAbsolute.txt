@@ -1,0 +1,89 @@
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.csproj.AssemblyReference.cache
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.AssemblyInfoInputs.cache
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.AssemblyInfo.cs
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.csproj.CoreCompileInputs.cache
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\appsettings.Development.json
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\appsettings.json
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.exe
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.deps.json
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.runtimeconfig.json
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.pdb
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.BUS.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.DAL.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.MOD.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.ULT.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.BUS.pdb
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.DAL.pdb
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.MOD.pdb
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.ULT.pdb
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets\msbuild.QuanLyKTX.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLyKTX.API.props
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyKTX.API.props
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLyKTX.API.props
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\scopedcss\bundle\QuanLyKTX.API.styles.css
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.csproj.CopyComplete
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\refint\QuanLyKTX.API.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.pdb
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.genruntimeconfig.cache
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\ref\QuanLyKTX.API.dll
+F:\Web\C#\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.exe
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.deps.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.runtimeconfig.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\QuanLyKTX.API.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.BUS.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.DAL.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.MOD.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.ULT.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.BUS.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.DAL.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.MOD.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\bin\Debug\net6.0\KTX.ULT.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.csproj.AssemblyReference.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.AssemblyInfoInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.AssemblyInfo.cs
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.csproj.CoreCompileInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\scopedcss\bundle\QuanLyKTX.API.styles.css
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.csproj.CopyComplete
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\refint\QuanLyKTX.API.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\QuanLyKTX.API.genruntimeconfig.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\QuanLyKTX.API\obj\Debug\net6.0\ref\QuanLyKTX.API.dll

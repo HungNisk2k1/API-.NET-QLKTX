@@ -1,0 +1,272 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: monospace;
+  /*   border     : 1px solid blue;*/
+  font-size: 20px;
+}
+
+/* #khung{ */
+/*  border: 1px solid red;*/
+/* } */
+/*menu*/
+div[id="menu"] ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+  background-color: black;
+}
+
+div[id="menu"] li {
+  float: left;
+}
+
+div[id="menu"] li a {
+  display: block;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+/*.active{
+background-color: gray;
+color: white;
+}*/
+div[id="menu"] li a:hover {
+  background-color: orange;
+  color: white;
+}
+
+/*logo page*/
+#logo {
+  margin: auto;
+  width: 1200px;
+  height: 200px;
+  border: 1px solid white;
+  /*  position: relative;*/
+}
+
+#logo img {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  /*  border         : 1px solid black;*/
+  width: 600px;
+  margin-top: -60px;
+}
+
+/*nội dung sản phẩm*/
+#noidung {
+  padding: 20px 0px 20px 0px;
+  margin: auto;
+  width: 1200px;
+  /*    border       : 1px solid black;*/
+  margin-bottom: 20px;
+}
+
+#sanpham {
+  width: 1200px;
+  display: flex;
+  justify-content: space-around;
+  /*  border         : 1px solid red;*/
+}
+
+#anhsp img {
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /*  border         : 1px solid black;*/
+}
+
+#ctsp {
+  width: 600px;
+  /*  border: 1px solid black;*/
+  padding: 0px 0px 0px 40px;
+  font-size: 30px;
+}
+
+#ctsp h3,
+b,
+hr {
+  margin-left: -35px;
+}
+
+li[class="gc"] span {
+  text-decoration-line: line-through;
+}
+li[class="gm"] span {
+  color: red;
+}
+
+td[class="td"] {
+  font-size: 25px;
+  /*  font-weight: bold;*/
+  color: red;
+}
+
+input[id="dh"] {
+  margin-top: 20px;
+  width: 200px;
+  height: 60px;
+  background-color: #ff9999;
+  color: white;
+  border-radius: 15px;
+  font-size: 30px;
+}
+
+input[id="dh"]:hover {
+  background-color: red;
+  color: white;
+}
+
+td[class="ndkm"] {
+  background-color: #3366ff;
+  color: white;
+  padding-left: 10px;
+}
+table[class="tbkm"] {
+  margin-left: -35px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+table[class="tbkm"] tr td ol {
+  padding-left: 35px;
+}
+
+table[class="tbkm"] tr td ol ul {
+  padding-left: 35px;
+}
+
+.motasp {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  overflow: hidden;
+  border: 1px solid white;
+  background-color: black;
+  /*border-top-left-radius : 15px;
+    border-top-right-radius: 15px;*/
+}
+
+.motasp button {
+  width: 300px;
+  height: 40px;
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 22px;
+  font-weight: bold;
+  border-right: 2px dashed white;
+  border-left: 2px dashed white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+
+.motasp button.active {
+  background-color: white;
+  color: red;
+  border-top: 1px solid black;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  /*  border    : 1px solid #ccc;*/
+  border-top: none;
+}
+
+/*nút close*/
+.topright {
+  float: right;
+  cursor: pointer;
+  font-size: 28px;
+  /*  border          : 1px solid red;*/
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: red;
+  color: white;
+  border-radius: 15px;
+}
+
+.topright:hover {
+  color: #ff3366;
+  border: 1px solid red;
+  background-color: white;
+}
+
+.motasp button:hover {
+  background-color: #cc0000;
+  color: white;
+}
+
+/*footer*/
+#footer {
+  background-color: rgb(103, 119, 239);
+  color: white;
+  padding: 10px 0px 10px 0px;
+}
+
+#f0 {
+  font-size: 15px;
+  /*  border         : 1px solid red;*/
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+#f0 span {
+  color: #ff6666;
+  font-weight: bold;
+}
+
+#f1 {
+  /*  border         : 1px solid red;*/
+  width: 350px;
+}
+
+#f2 {
+  /*  border         : 1px solid red;*/
+  width: 250px;
+}
+
+#f2 a {
+  text-decoration: none;
+  color: white;
+}
+
+#f2 a:hover {
+  font-size: 20px;
+  color: #ff6666;
+}
+
+#f3 {
+  /*  border         : 1px solid red;*/
+  width: 300px;
+}
+
+#f4 {
+  /*  border         : 1px solid red;*/
+  width: 300px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

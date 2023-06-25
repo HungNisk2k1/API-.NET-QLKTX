@@ -1,0 +1,8 @@
+:where(.css-dev-only-do-not-override-ph9edi).ant-layout .ant-layout-sider-children {
+    height: 100%;
+    margin-top: -68.1px;
+    padding-top: 0.1px;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-layout .ant-layout-sider {
+    background: #ffffff;
+}

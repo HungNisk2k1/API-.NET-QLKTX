@@ -1,0 +1,24 @@
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.csproj.AssemblyReference.cache
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.AssemblyInfoInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.AssemblyInfo.cs
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.csproj.CoreCompileInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.MOD\bin\Debug\net6.0\KTX.MOD.deps.json
+F:\Web\C#\QuanLyKTX\KTX.MOD\bin\Debug\net6.0\KTX.MOD.dll
+F:\Web\C#\QuanLyKTX\KTX.MOD\bin\Debug\net6.0\KTX.MOD.pdb
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.dll
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\refint\KTX.MOD.dll
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.pdb
+F:\Web\C#\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\ref\KTX.MOD.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\bin\Debug\net6.0\KTX.MOD.deps.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\bin\Debug\net6.0\KTX.MOD.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\bin\Debug\net6.0\KTX.MOD.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.csproj.AssemblyReference.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.AssemblyInfoInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.AssemblyInfo.cs
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.csproj.CoreCompileInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\refint\KTX.MOD.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\KTX.MOD.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.MOD\obj\Debug\net6.0\ref\KTX.MOD.dll

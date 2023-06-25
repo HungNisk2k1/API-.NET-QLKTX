@@ -1,0 +1,34 @@
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.csproj.AssemblyReference.cache
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.AssemblyInfoInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.AssemblyInfo.cs
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.csproj.CoreCompileInputs.cache
+F:\Web\C#\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.DAL.deps.json
+F:\Web\C#\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.DAL.dll
+F:\Web\C#\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.DAL.pdb
+F:\Web\C#\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.MOD.dll
+F:\Web\C#\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.ULT.dll
+F:\Web\C#\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.MOD.pdb
+F:\Web\C#\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.ULT.pdb
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.csproj.CopyComplete
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.dll
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\refint\KTX.DAL.dll
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.pdb
+F:\Web\C#\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\ref\KTX.DAL.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.DAL.deps.json
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.DAL.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.DAL.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.MOD.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.ULT.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.MOD.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\bin\Debug\net6.0\KTX.ULT.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.csproj.AssemblyReference.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.AssemblyInfoInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.AssemblyInfo.cs
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.csproj.CopyComplete
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\refint\KTX.DAL.dll
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\KTX.DAL.pdb
+C:\Users\Hung0\Downloads\New folder\QuanLyKTX\KTX.DAL\obj\Debug\net6.0\ref\KTX.DAL.dll

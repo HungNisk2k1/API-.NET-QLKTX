@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuanLyKTX.API.props" />
+</Project>

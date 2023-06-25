@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KTX.MOD\KTX.MOD.csproj" />
+    <ProjectReference Include="..\KTX.ULT\KTX.ULT.csproj" />
+  </ItemGroup>
+
+</Project>
